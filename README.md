@@ -1,3 +1,3 @@
-# Ola, Mundo!
- Meu_Segundo_Repositório
+# Ola_Mundo
+ Meu Segundo Repositório
  Exercícios práticos.
